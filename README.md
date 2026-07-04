@@ -1,1 +1,2 @@
 # NewGitRepo
+Hi im OM
